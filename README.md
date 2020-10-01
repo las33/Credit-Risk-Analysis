@@ -1,10 +1,16 @@
 # Credit-Risk-Analysis
 A project for the Neural Networks discipline mentored by Prof. Dr.  Germano Vasconcelos  (http://www.cin.ufpe.br/~gcv/web_lci/germano.html) at Centro de Informática, UFPE, Brazil (cin.ufpe.br). Using mlp to classifier samples as either good or bad in credit risk analysis context.
 
+#### Stack used in this project
+
+1. numpy
+2. pandas
+3. keras (using MLP model)
+4. matplotlib
 
 #### Dataset
 
-link to [folder][dataset]
+Link to [folder][dataset]
 
 #### Some Results
 To achieve good results different mlps configurations were tested 
